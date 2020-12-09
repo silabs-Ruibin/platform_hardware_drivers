@@ -1,4 +1,4 @@
-<table border="0">
+test<table border="0">
   <tr>
     <td align="left" valign="middle">
     <h1>EFM32 and EFR32<br/>Hardware Drivers</h1>
